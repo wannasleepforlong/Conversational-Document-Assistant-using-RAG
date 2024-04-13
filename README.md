@@ -1,4 +1,4 @@
-# Retrieval-Augmented-Generation-with-Open-Source-LLM-and-LangChain
+# Conversational Document Assistant using RAG
 Retrieval Augmented Generation with Huggingface model Zephyr-7b and ChromaDB 
 
 ## Steps:
